@@ -1,3 +1,18 @@
+<h3>This app build with Laravel x ReactJS and Tailwind</h3>
+
+- The <a href="https://laravel.com/">Laravel</a> will be use as the parent of this project and will focus more on the backend environment or creating the API
+- <a href="https://react.dev/">ReactJS</a> will be focused on the frontend environment to provide an attractive and interactive appearance
+- <a href="https://tailwindcss.com/">Tailwind</a> is to styling the UI components
+  
+##
+
+<h3>Powerfull 3rd party providers</h3>
+
+ - Athentication: <a href="https://github.com/laravel/breeze">Laravel Breeze</a>
+ - SPA (Single Page Application): <a href="https://inertiajs.com/">Inertia</a>
+ - Permission Management: <a href="https://spatie.be/">Spatie</a>
+ - Payment Gateway: <a href="https://midtrans.com/">Midtrans</a>
+<hr>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
