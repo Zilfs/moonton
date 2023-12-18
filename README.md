@@ -8,7 +8,7 @@
 
 <h3>Powerfull 3rd party providers</h3>
 
- - Athentication: <a href="https://github.com/laravel/breeze">Laravel Breeze</a>
+ - Authentication: <a href="https://github.com/laravel/breeze">Laravel Breeze</a>
  - SPA (Single Page Application): <a href="https://inertiajs.com/">Inertia</a>
  - Permission Management: <a href="https://spatie.be/">Spatie</a>
  - Payment Gateway: <a href="https://midtrans.com/">Midtrans</a>
