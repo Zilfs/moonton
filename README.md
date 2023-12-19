@@ -1,4 +1,4 @@
-<h3>This app build with Laravel x ReactJS and Tailwind</h3>
+<h3>This app is built with Laravel x ReactJS and Tailwind</h3>
 
 - The <a href="https://laravel.com/">Laravel</a> will be use as the parent of this project and will focus more on the backend environment or creating the API
 - <a href="https://react.dev/">ReactJS</a> will be focused on the frontend environment to provide an attractive and interactive appearance
